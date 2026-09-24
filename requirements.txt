@@ -1,0 +1,11 @@
+jupyterlab
+pandas
+numpy
+requests
+openpyxl
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+sqlalchemy
